@@ -36,5 +36,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Lo mas dificil de este proyecto fue el consumo de la api debido a que estas contiene mucha iformacion",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blito635/front_masmetros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blito635/front_masmetros/issues"
+  },
+  "homepage": "https://github.com/Blito635/front_masmetros#readme"
 }
