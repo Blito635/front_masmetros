@@ -1,0 +1,26 @@
+.tabla{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  column-gap: 20px;
+  row-gap: 20px;
+  padding: 40px;
+}
+.botones{
+    display: flex;
+    justify-content: space-around;
+}
+.cartapoke{
+    padding-left: 10px;
+    background: #e9e3ce;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.parrafo{
+    text-decoration: none;
+    font-family: Verdana;
+}
