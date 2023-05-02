@@ -1,6 +1,8 @@
 .titulo{
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
 .nombre{
     color: midnightblue;
